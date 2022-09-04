@@ -1,4 +1,5 @@
 # Wifi-Bluetooth-driver
+<!--
 <h2>
   Extract the tar.bz file 
   <br>
@@ -9,4 +10,18 @@
   then enter this command <br>
   ./Broadcom.sh <br> 
   then press Enter and selet 1 then your pc will reboot
+</h2>
+-->
+
+
+<h2>
+  Extract the file <br>
+  then 
+  Go to the directory
+  then enter this command
+  <br>
+  <b> make unload </b> </br>
+  then enter this command <br>
+  <b> make load </b> <br>
+  then press enter <br>
 </h2>
