@@ -18,7 +18,7 @@
   Extract the file <br>
   then <br>
   make your terminal root by this command <br>
-  <b> sudo su </b>
+  <b> sudo su </b> <br>
   then enter your password <br>
   Go to the directory
   then enter this command
