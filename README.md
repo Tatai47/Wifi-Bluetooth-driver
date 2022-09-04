@@ -1,5 +1,8 @@
 # Wifi-Bluetooth-driver
-<h1>
+<h2>
   Extract the tar.bz file 
   <br>
-</h1>
+  Go to the folder <br>
+  then give the permission by this command
+  sudo chmod +x Ba
+</h2>
