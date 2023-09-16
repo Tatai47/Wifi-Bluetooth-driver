@@ -28,3 +28,4 @@
   <b> make load </b> <br>
   then press enter <br>
 </h2>
+<image align="center" src="https://ps4linux.com/wp-content/uploads/2023/08/mt7668-wifi-bluetooth-drivers-linux-compile-820x430.png"/>
